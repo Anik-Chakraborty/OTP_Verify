@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Otp Verify</string>
+    <string name="enter_mobile_no">Please enter your mobile number</string>
+    <string name="verify_phone">Verify Phone</string>
+    <string name="receive_otp">You’ll receive a 4 digit\ncode to verify next.</string>
+    <string name="profile_select">Please select your profile</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing</string>
+</resources>
